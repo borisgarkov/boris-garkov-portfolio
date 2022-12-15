@@ -1,0 +1,18 @@
+{
+    "name": "Boris Garkov Portfolio",
+    "email": "boris.garkov@abv.bg",
+    "description": "If you like my projects and work up to this point, probably we can work together. If you need a professional website, or any automation related to everyday repetetive tasks, please reach out to me.",
+    "image": {
+        "src": "../../images/bg.png",
+        "alt": "BG Logo"
+    },
+    "socialProfiles": {
+        "from": [
+            "LinkedIn",
+            "Medium",
+            "Github",
+            "Mail"
+        ],
+        "showIcons": true
+    }
+}
