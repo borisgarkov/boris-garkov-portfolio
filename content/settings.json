@@ -1,7 +1,7 @@
 {
     "siteMetadata": {
         "language": "en",
-        "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+        "siteUrl": "https://borisgarkov.site/",
         "title": "Boris Garkov Minimal Portfolio",
         "titleTemplate": "%s · Boris Garkov Portfolio Minimal",
         "description": "Boris Garkov Personal Website and Portfolio with Portfolio Minimal theme.",
