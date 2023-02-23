@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/coding.jpg"
+imageSrc: "../../images/myphoto.jpg"
 imageAlt: "About me"
 ---
 
