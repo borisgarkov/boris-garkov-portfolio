@@ -4,7 +4,7 @@
             "visible": true,
             "category": "🕹️ Rent A Hand",
             "title": "Jobs Portal!",
-            "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+            "description": "Freelance jobs portal where everyone who wants to work as a freelancer can share their job post and find relevant projects. Users can also post their own projects and find freelancers who can accomplish their tasks. Front-end built with ReactJS, GatsbyJS and MaterialUI.",
             "tags": [
                 "Jobs Portal",
                 "Freelance work"
@@ -29,7 +29,7 @@
             "visible": true,
             "category": "👷‍♀️ Nikoleta Ivanova Portfolio Website",
             "title": "Architecture Portfolio Website",
-            "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+            "description": "Personal website with the main purpose to present projects and personal information of the author. People and companies who would like to cooperate with the author can contact her directly through the website. Built with ReactJS, NextJS and MaterialUI.",
             "tags": [
                 "Architecture",
                 "3D modeling",
