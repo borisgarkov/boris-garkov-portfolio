@@ -1,12 +1,14 @@
 {
     "siteMetadata": {
         "language": "en",
-        "siteUrl": "https://borisgarkov.site/",
+        "siteUrl": "https://borisgarkov.site",
         "title": "Boris Garkov Minimal Portfolio",
         "titleTemplate": "%s · Boris Garkov Portfolio Minimal",
         "description": "Boris Garkov Personal Website and Portfolio with Portfolio Minimal theme.",
         "author": "Boris Garkov",
-        "avatar": "../content/images/gatsby.png",
+        "avatar": "../content/images/myphoto.jpg",
+        "image": "../content/images/myphoto.jpg",
+        "thumbnail": "../content/images/myphoto.jpg",
         "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
         "social": {
             "github": "https://github.com/borisgarkov/",
