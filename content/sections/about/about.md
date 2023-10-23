@@ -4,17 +4,17 @@ imageAlt: "About me"
 ---
 
 <u>
-Current job
+CURRENT JOB
 </u>
 
 - Python Data Engineer
 
 <u>
-Education
+EDUCATION
 </u>
 
 - MSc Quantitative Finance (University of Glasgow, UK)
-- BSc International Business, Finance and Economics (University of Mancheste, UK)
+- BSc International Business, Finance and Economics (University of Manchester, UK)
 - Software University (SoftUni) Python programme.
 
     - <a href="https://softuni.bg/Certificates/Details/84090/c3f3abdf" target="_blank" rel="nofollow noopener noreferrer"  aria-label="External Link">Programming Basics with Python (View certificate)</a>
@@ -26,9 +26,9 @@ Education
     - <a href="https://softuni.bg/Certificates/Details/114863/006aabe7" target="_blank" rel="nofollow noopener noreferrer"  aria-label="External Link">JS Advanced (View certificate)</a>
     - <a href="https://softuni.bg/Certificates/Details/120971/49381a9b" target="_blank" rel="nofollow noopener noreferrer"  aria-label="External Link">JS Applications (View certificate)</a>
  
-<u>
+<!-- <u>
 Latest Personal Projects
-</u>
+</u> -->
 
-- <a href="https://rentahandgatsbymaster.gatsbyjs.io/" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"> Rent A Hand Jobs Portal</a>
-    - Front-end built with Gatsby JS, React JS, Material UI
+<!-- - <a href="https://rentahandgatsbymaster.gatsbyjs.io/" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"> Rent A Hand Jobs Portal</a>
+    - Front-end built with Gatsby JS, React JS, Material UI -->

@@ -2,8 +2,8 @@
     "projects": [
         {
             "visible": true,
-            "category": "🕹️ Rent A Hand",
-            "title": "Jobs Portal!",
+            "category": "🕹️ Freelance Jobs Portal",
+            "title": "Social Media Jobs Portal",
             "description": "Freelance jobs portal where everyone who wants to work as a freelancer can share their job post and find relevant projects. Users can also post their own projects and find freelancers who can accomplish their tasks. Front-end built with ReactJS, GatsbyJS and MaterialUI.",
             "tags": [
                 "Jobs Portal",
@@ -12,7 +12,7 @@
             "image": {
                 "src": "../../images/Rent A Hand_D1.png",
                 "alt": "logo image",
-                "linkTo": "https://rentahandgatsbymaster.gatsbyjs.io/"
+                "linkTo": "https://mysupersite.fun/"
             },
             "links": [
                 {
@@ -21,7 +21,7 @@
                 },
                 {
                     "type": "external",
-                    "url": "https://rentahandgatsbymaster.gatsbyjs.io/"
+                    "url": "https://mysupersite.fun/"
                 }
             ]
         },
@@ -38,7 +38,7 @@
             "image": {
                 "src": "../../images/nivanova.PNG",
                 "alt": "logo image",
-                "linkTo": "https://arch-portfolio-iota.vercel.app/"
+                "linkTo": "https://www.arch-nivanova.site/"
             },
             "links": [
                 {
@@ -47,7 +47,7 @@
                 },
                 {
                     "type": "external",
-                    "url": "https://arch-portfolio-iota.vercel.app/"
+                    "url": "https://www.arch-nivanova.site/"
                 }
             ]
         },

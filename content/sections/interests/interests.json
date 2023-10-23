@@ -15,9 +15,16 @@
             }
         },
         {
-            "label": "Excel and VBA",
+            "label": "PySpark",
             "image": {
-                "src": "../../images/excel-logo.png",
+                "src": "../../images/pyspark.jpg",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Web Development",
+            "image": {
+                "src": "../../images/web.png",
                 "alt": ""
             }
         },
@@ -32,6 +39,13 @@
             "label": "React JS",
             "image": {
                 "src": "../../images/react-logo.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Excel and VBA",
+            "image": {
+                "src": "../../images/excel-logo.png",
                 "alt": ""
             }
         }
