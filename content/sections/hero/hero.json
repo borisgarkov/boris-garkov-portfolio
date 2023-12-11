@@ -1,0 +1,25 @@
+{
+    "intro": "Hey",
+    "heroPhoto": {
+        "src": "../../images/lego-dummy.png",
+        "alt": "My Photo"
+    },
+    "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "I am Boris Garkov",
+    "subtitle": {
+        "prefix": "",
+        "highlight": "Welcome to my personal website and portfolio",
+        "suffix": "."
+    },
+    "description": "Throughout the website you will be able to see my personal projects, skills and experience. Please find me on social media by clicking on the below buttons.",
+    "socialProfiles": {
+        "from": [
+            "LinkedIn",
+            "Github"
+        ],
+        "showIcons": false
+    }
+}

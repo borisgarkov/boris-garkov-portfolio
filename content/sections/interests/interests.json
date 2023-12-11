@@ -1,0 +1,58 @@
+{
+    "interests": [
+        {
+            "label": "Python",
+            "image": {
+                "src": "../../images/python-logo.jpg",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Pandas",
+            "image": {
+                "src": "../../images/pandas-python.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "PySpark",
+            "image": {
+                "src": "../../images/pyspark.jpg",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Web Development",
+            "image": {
+                "src": "../../images/web.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "JavaScript",
+            "image": {
+                "src": "../../images/js-logo.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "React JS",
+            "image": {
+                "src": "../../images/react-logo.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Excel and VBA",
+            "image": {
+                "src": "../../images/excel-logo.png",
+                "alt": ""
+            }
+        }
+    ],
+    "button": {
+        "visible": false,
+        "label": "+ Load More",
+        "initiallyShownInterests": 5
+    }
+}

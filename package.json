@@ -1,0 +1,33 @@
+{
+    "name": "boris-garkov-personal-portfolio",
+    "version": "1.0.0",
+    "description": "Boris Garkov Personal Portfolio.",
+    "scripts": {
+        "clean": "gatsby clean",
+        "develop": "gatsby develop",
+        "build": "gatsby build",
+        "serve": "gatsby serve"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "dependencies": {
+        "gatsby": "^5.0.1",
+        "gatsby-theme-portfolio-minimal": "latest",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "license": "0BSD",
+    "starter-name": "boris-garkov-personal-portfolio",
+    "keywords": [
+        "react",
+        "gatsby",
+        "gatsby-theme",
+        "PWA",
+        "portfolio",
+        "showcase",
+        "Boris Garkov",
+        "personal portfolio",
+        "gdpr-compliant"
+    ]
+}
