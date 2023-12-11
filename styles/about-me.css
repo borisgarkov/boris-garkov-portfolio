@@ -1,0 +1,36 @@
+h3 {
+    font-size: 1.75rem;
+    line-height: 2.25rem;
+    margin: 5rem 0 2rem;
+    font-weight: 700;
+}
+
+.about-me-section {
+    display: flex;
+    column-gap: 2rem;
+}
+
+.about-me-paragraph {
+    text-transform: uppercase;
+}
+
+.about-me-ul>li {
+    margin-left: 3rem;
+    line-height: 3rem;
+}
+
+.about-me-section>img{
+    height: 383.767px;
+    width: 288px;
+    object-fit: cover;
+    border-radius: 7%;
+}
+
+.softuni-certificates-ul {
+    margin-left: 6rem;
+}
+
+.softuni-certificates-ul>li>a{
+    text-decoration: none;
+    color: #5C5C5C;
+}

@@ -1,0 +1,63 @@
+:root {
+    --page-width: 62.5rem;
+    --underline-color: #FFF4D9;
+}
+
+* {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5rem;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+nav {
+    min-height: 6.25rem;
+    max-width: var(--page-width);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbarLinks {
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-right: 4rem;
+}
+
+.resumeButton {
+    border: 0.125rem solid black;
+    border-radius: 1rem;
+    padding: 0.5rem 1.5rem;
+    transition: 20ms ease-out;
+    margin-right: 0;
+}
+
+.resumeButton:hover {
+    color: white;
+    background-color: black;
+}
+
+.welcome-div {
+    display: flex;
+    column-gap: 1rem;
+}
+
+.waving-hand {
+    height: 48px;
+    width: 48px;
+}
+
+main{
+    max-width: var(--page-width);
+    margin: 0 auto 10rem;
+}
