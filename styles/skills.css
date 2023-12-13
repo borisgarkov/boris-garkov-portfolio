@@ -1,0 +1,49 @@
+.skills-wrapper {
+    opacity: 0;
+    /* animation-name: fadeUp; */
+    animation-timing-function: ease-out;
+    animation-duration: 500ms;
+    animation-delay: 0ms;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+
+    margin-bottom: 10rem;
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 15.625rem);
+    gap: 1rem;
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+    column-gap: 0.5rem;
+    border: 2px solid black;
+    padding: 0.8rem 1rem;
+    border-radius: 0.2rem 1rem;
+    max-width: 15.625rem;
+
+    /* animation-name: scaleIn; */
+    animation-timing-function: ease-out;
+    animation-duration: 200ms;
+    animation-delay: 0ms;
+    animation-iteration-count: 1;
+    animation-fill-mode: backwards;
+}
+
+.skill>img {
+    object-fit: contain;
+}
+
+@media (max-width: 1000px) {
+    .skills-wrapper {
+        margin-bottom: 5rem;
+    }
+
+    .skills-grid {
+        grid-template-columns: repeat(1, 15.625rem);
+        gap: 0.5rem;
+    }
+}

@@ -1,0 +1,32 @@
+@media (max-width: 1000px) {
+
+    .navbar {
+        display: none;
+    }
+}
+
+.navbarLinks {
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-right: 4rem;
+}
+
+.dynamic-underline {
+    position: relative;
+}
+
+.dynamic-underline::before {
+    content: '';
+    position: absolute;
+    height: 0.10rem;
+    width: 0%;
+    bottom: -0.125rem;
+    background-color: black;
+    transition: 200ms ease-out;
+}
+
+.dynamic-underline:hover::before {
+    width: 100%;
+}

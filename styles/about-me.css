@@ -1,8 +1,12 @@
-h3 {
-    font-size: 1.75rem;
-    line-height: 2.25rem;
-    margin: 5rem 0 2rem;
-    font-weight: 700;
+.about-me-wrapper {
+    /* animation-name: fadeUp; */
+    animation-timing-function: ease-out;
+    animation-duration: 200ms;
+    animation-delay: 0ms;
+    animation-iteration-count: 1;
+    animation-fill-mode: backwards;
+
+    margin-bottom: 10rem;
 }
 
 .about-me-section {
@@ -12,6 +16,13 @@ h3 {
 
 .about-me-paragraph {
     text-transform: uppercase;
+    display: inline-block;
+    box-shadow: var(--custom-box-shadow);
+    transition: box-shadow .3s ease-out;
+}
+
+.about-me-paragraph:hover {
+    box-shadow: var(--custom-box-shadow-hover);
 }
 
 .about-me-ul>li {
@@ -19,18 +30,44 @@ h3 {
     line-height: 3rem;
 }
 
-.about-me-section>img{
+.about-me-section>img {
     height: 383.767px;
     width: 288px;
     object-fit: cover;
     border-radius: 7%;
+
+    /* animation-name: fadeLeft; */
+    animation-timing-function: ease-out;
+    animation-duration: 200ms;
+    animation-delay: 200ms;
+    animation-iteration-count: 1;
+    animation-fill-mode: backwards;
 }
 
 .softuni-certificates-ul {
     margin-left: 6rem;
 }
 
-.softuni-certificates-ul>li>a{
+.softuni-certificates-ul>li>a {
     text-decoration: none;
     color: #5C5C5C;
+}
+
+@media (max-width: 1000px) {
+    .about-me-wrapper {
+        margin-bottom: 5rem;
+    }
+
+    .about-me-section {
+        flex-direction: column;
+        row-gap: 2rem;
+    }
+
+    .about-me-paragraph {
+        margin: 1rem;
+    }
+
+    .about-me-ul>li {
+        line-height: 2rem;
+    }
 }

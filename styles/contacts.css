@@ -1,0 +1,9 @@
+.contacts-wrapper {
+    opacity: 0;
+    /* animation-name: fadeUp; */
+    animation-timing-function: ease-out;
+    animation-duration: 500ms;
+    animation-delay: 0ms;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
