@@ -73,6 +73,11 @@
     object-fit: cover;
 }
 
+.external-image {
+    cursor: pointer;
+    margin-top: 1.5rem;
+}
+
 @media (max-width: 1000px) {
     .projects-wrapper {
         margin-bottom: 5rem;
